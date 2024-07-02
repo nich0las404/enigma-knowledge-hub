@@ -215,10 +215,8 @@ body{
     #star-logo-container p {
         font-size: 1.4em;
     }
-
-    /* Adjust main content font size */
-    #header-main-content {
-        font-size: 1.8em;
+    #company-title{
+        font-size: 2.9em
     }
 }
 
@@ -239,10 +237,8 @@ body{
     #star-logo-container p {
         font-size: 1.2em;
     }
-
-    /* Adjust main content font size */
-    #header-main-content {
-        font-size: 1.6em;
+    #company-title{
+        font-size: 2.8em
     }
 }
 
@@ -264,14 +260,12 @@ body{
         font-size: 1em;
     }
 
-    /* Adjust main content font size */
-    #header-main-content {
-        font-size: 1.4em;
-    }
-
     /* Adjust card width */
     #card {
         width: 100%;
+    }
+    #company-title{
+        font-size: 2.5em
     }
 }
 
@@ -296,11 +290,6 @@ body{
         font-size: 0.8em;
     }
 
-    /* Adjust main content font size */
-    #header-main-content {
-        font-size: 1.2em;
-    }
-
     /* Adjust card width */
     #card {
         width: 100%;
@@ -319,6 +308,9 @@ body{
         height: 70px;
         border-radius: 999rem;
     }
+    #company-title{
+        font-size: 2.2em
+    }
 }
 
 @media (max-width: 330px) {
@@ -327,10 +319,6 @@ body{
         font-size: 0.8em;
     }
 
-    /* Adjust main content font size */
-    #header-main-content {
-        font-size: 1.2em;
-    }
 
     /* Adjust card width */
     #card {
@@ -341,5 +329,8 @@ body{
     }
     #article-card-title{
         font-size: 18px
+    }
+    #company-title{
+        font-size: 1.8em
     }
 }
