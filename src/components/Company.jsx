@@ -14,7 +14,7 @@ function CompanySection(){
             content: "Established in 2017 as part of PT. Square Techno Indonesia, evolved into PT. Enigma Cipta Humanika in August 2019. Specialized in IT, offering two key programs: Talent and Training as a Service. Our mission is to empower software engineers and support your business.",
         },{
             title: "Product Knowledge Programs",
-            content: "Intensive training programs such as IT, Corporate, and Remote BootCamps designed to take users from beginner to job-ready using Golang and Java. This include practical classes, mentoring sessions, and job placement assistance. The bootcamps are designed for fresh graduates, career switchers, and job seekers.",
+            content: "Intensive training programs such as IT, Corporate, and Remote BootCamps designed to take users from beginner to job-ready using Golang and Java. This include practical classes, mentoring sessions, and job placement assistance. The bootcamps are designed for fresh graduates and career switchers.",
         },{
             title: "Design Thinking - Enigma Camp's Workflow",
             content: '"Bridging the gap between education and industry.", Our vision not only emphasizes on providing a positive impact through extensive learning and education, but we also focuses on minimizing the gap between graduates skills and industry requirements.​'

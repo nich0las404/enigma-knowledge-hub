@@ -10,7 +10,7 @@ function ProfilePage(){
             profileSrc: "https://www.linkedin.com/in/arya-saca-881409209/"
         },{
             name: "Saraska Lango",
-            img: "https://cdn.openart.ai/uploads/image_GWbj5PkO_1694128695299_512.webp",
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjLlJS2C2KD-fRoOykz8e5luqOtFFpGo_QQ&s",
             content: '"Mengikuti IT bootcamp di Enigma Camp merupakan salah satu pilihan terbaik yang pernah saya buat. Ilmu yang didapatkan membuat saya berkesempatan untuk bekerja di Indivara dan bertemu orang-orang hebat sebagai langkah awal karir saya di dunia IT.”',
             profileSrc: "https://www.linkedin.com/in/saraska-lango-165708211/"
         }
